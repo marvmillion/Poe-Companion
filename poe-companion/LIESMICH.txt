@@ -1,0 +1,18 @@
+PoE Companion 1.2 (Beta)
+=================
+
+Starten: PoE-Companion.exe aus der GitHub-Release herunterladen und doppelklicken (kein Python noetig).
+Es oeffnet sich der Hub (Uebersicht, Skilltree, Leveling, Item-Check, Map-Check, Profile).
+
+Tasten (in Einstellungen aenderbar):
+  F8   Overlays ein/aus (Item-Popup und Skilltree-Overlay)
+  F9   Hub oeffnen
+  F10  Skilltree-Overlay ein/aus
+  Strg+C auf ein Item oder eine Map im Spiel -> Popup mit Vergleich
+
+
+Wichtig:
+  - Spiel im Modus "Windowed Fullscreen", sonst liegen die Overlays dahinter.
+  - Spielsprache Englisch (PoB versteht nur englische Itemtexte).
+  - PoE-Profil muss oeffentlich sein (Privacy Settings).
+  - Bitte das alte Overlay (overlay.py) vorher schliessen, sonst ist F8 doppelt belegt.
